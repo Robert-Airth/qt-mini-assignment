@@ -15,7 +15,7 @@ evaluated as an arithmetic expression.
 tutorial link:
 https://realpython.com/python-pyqt-gui-calculator/
 
-![QTMiniAssignmentDemo](https://github.com/rja45/Data-Analysis-Milestone/blob/master/Milestone3Demo.gif)
+![QTMiniAssignmentDemo](https://github.com/rja45/qt-mini-assignment/blob/master/QTMiniAssignmentDemo.gif)
 
 
 
